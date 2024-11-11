@@ -1,3 +1,4 @@
-Progetto.
+Progetto Foundations of Computer Science.
 
-Eventuali istruzioni su come caricare il dataset
+Istruzioni su come caricare il dataset:
+
